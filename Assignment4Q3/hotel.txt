@@ -1,0 +1,4 @@
+--HOTELS--
+Montreal Hotel:Downtown:Saint-Catherine:50
+Snowy Heritage Resort & Spa:Plateau:Saint-Laurent:500
+Rosewood Resort:Downtown:Sherbrooke:200

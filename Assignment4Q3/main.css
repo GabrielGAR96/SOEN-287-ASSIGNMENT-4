@@ -1,0 +1,43 @@
+body {background-color: #66ff99}
+.aquabackground
+{color: #FF0000;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+
+    background-color: aqua}
+.orangebackground
+{color: #0000FF;
+    border-style: solid;
+    border-color: blue;
+    border-width: 1px;
+
+    background-color: orange}
+
+.lightred {color: #FF6666;
+
+}
+.lightblue {color: #6666FF;
+
+}
+.header{font-size: 45px;}
+
+.visible{visibility: visible;}
+.hidden{visibility: hidden;}
+
+#footer{
+    position: absolute;
+    background-color: chocolate;
+    bottom: 10px;
+    width: 15%;
+    height: 2.5rem;
+    right: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#button{
+    position: absolute;
+    top: 3%;
+    right: 3%;
+}
